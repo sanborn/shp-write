@@ -34,7 +34,7 @@
     "url": "https://github.com/mapbox/shp-write/issues"
   },
   "dependencies": {
-    "sanborn/dbf": "0.1.4",
+    "dbf": "github:sanborn/dbf",
     "jszip": "2.5.0"
   },
   "devDependencies": {
